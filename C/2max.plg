@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 2max - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPC31C.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/2max.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\JavaForDevelopers\C\2max.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPC31C.tmp" 
+<h3>Output Window</h3>
+Compiling...
+2max.c
+e:\javafordevelopers\c\2max.c(1) : error C2018: unknown character '0xef'
+e:\javafordevelopers\c\2max.c(1) : error C2018: unknown character '0xbb'
+e:\javafordevelopers\c\2max.c(1) : error C2018: unknown character '0xbf'
+e:\javafordevelopers\c\2max.c(14) : error C2143: syntax error : missing ';' before 'type'
+e:\javafordevelopers\c\2max.c(15) : error C2065: 'mx' : undeclared identifier
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+2max.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

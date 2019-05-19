@@ -1,0 +1,28 @@
+﻿class WhileTest 
+{
+	public static void main(String[] args) 
+	{
+		int i, sum;
+		i = 1;
+		sum = 0;
+
+		/*
+			练习
+			求出1到10中每个数值之和
+			
+			思路：
+			1. 首先定义一个需要计算的值，这个值不确定就得用变量
+			2. 还得使用一个变量记录每次参与运算的值
+			3. 从1加到10，其中就是做一个自增动作
+			4. 不断的做运算就有重复，所以得想到循环结构
+		*/
+		while (i<=10)
+		{
+			sum +=i;
+			++i;
+		}
+		
+			System.out.println(sum);
+		System.out.println("Hello World!");
+	}
+}

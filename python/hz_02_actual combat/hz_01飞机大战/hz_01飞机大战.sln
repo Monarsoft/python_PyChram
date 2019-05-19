@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hz_01飞机大战", "hz_01飞机大战\hz_01飞机大战.pyproj", "{C08C0596-4299-4DFA-9105-ECD060098B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C08C0596-4299-4DFA-9105-ECD060098B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08C0596-4299-4DFA-9105-ECD060098B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A64ADAC4-87EE-4FBE-B804-7DF2BE8AC96E}
+	EndGlobalSection
+EndGlobal

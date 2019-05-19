@@ -1,0 +1,19 @@
+  	set default to 地址					设置零时目录
+	create databse DBC					创建数据库
+	create 成绩表						创建表
+	
+	list							在住控制台上显示内容
+	edit
+	use+表名						加表名则打开表但不显示，不加表名则关闭当前表
+	append
+	browse							浏览内容
+	
+
+	index on 学号 tag xh candidate ascending for >70	创建候选索引xh，以升序排列，条件满足成绩在70以上
+	index on 课程号 tag kch unique descending for >80	创建唯一索引kch，以降序排列，条件满足成绩在80分以上
+	delet tag xh						删除候选索引
+	delet tag kch						删除唯一索引
+
+	alter table 成绩表 primary key 成绩 tag ch		创建主索引ch
+	set order to ch						主控索引
+	alter table 成绩表 drop primary key			删除主索引

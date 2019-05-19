@@ -1,0 +1,77 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>d10218b6-4cfc-4d83-8740-efc2a380ddd9</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>十四递归函数_数值的累加.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>语法进阶_引用</Name>
+    <RootNamespace>语法进阶_引用</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="⑪.多值参数元组_字典.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="⑩.参数缺省值注意点.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="3.修改全局变量.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.全局变量和全局变量不可能直接修改.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1.局部变量.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="4.全局变量的位置.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="5.模块中函数返回多个值.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="6.交换数字（面试题）1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="7.函数中通过方法修改参数.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="8.加等于%28面试%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="⑨.函数缺省值的定义.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="十三. 函数递归.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="十二. 元组和字典的拆包.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="十四递归函数_数值的累加.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="语法进阶_引用.py" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

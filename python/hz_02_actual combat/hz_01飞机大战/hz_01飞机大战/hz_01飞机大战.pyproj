@@ -1,0 +1,80 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>c08c0596-4299-4dfa-9105-ecd060098b3e</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>review.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>hz_01飞机大战</Name>
+    <RootNamespace>hz_01飞机大战</RootNamespace>
+    <InterpreterId>Global|PythonCore|3.6-32</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="hz_02_使用rect描述英雄.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hz_01_pygame入门.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hz_03_set_mode创建窗口.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hz_04_绘制图像.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hz_05_认识游戏循环.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hz_06_更新hero位置.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hz_07_英雄循环飞行.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hz_08_事件监听.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hz_09_监听退出事件.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hz_10_main.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="plane_sprites.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="read.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="review.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.6-32" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 2" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="E:\Java for developers\python\hz_03Python&amp;#29228;&amp;#34411;\code\08_douban_spider.py" status="error" test="08_douban_spider" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\python\Eclipse&#23433;&#35013;&#21450;&#20854;&#20351;&#29992;\eclipse-java-neon-3-win32-x86_64\eclipse\dropins\plugins\org.python.pydev_5.7.0.201704111357\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "E:/Java for developers/python/hz_03Python&#29228;&#34411;/code\08_douban_spider.py", line 4, in <module>
+    from parse import parse_url
+  File "E:/Java for developers/python/hz_03Python&#29228;&#34411;/code\parse.py", line 2, in <module>
+    from retrying import *
+ModuleNotFoundError: No module named 'retrying'
+ERROR: Module: 08_douban_spider could not be imported (file: E:\Java for developers\python\hz_03Python&#29228;&#34411;\code\08_douban_spider.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="hz_03Python爬虫 08_douban_spider.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

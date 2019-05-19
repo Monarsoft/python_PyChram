@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void) {
+	int xjr = 0;
+	scanf("%d",&xjr);
+	
+	
+	return 0;
+}

@@ -1,0 +1,67 @@
+#   coding=utf8
+'''名片管理系统
+'''
+#1.打印提示信息
+print("="*50)
+print(" 欢迎使用名片管理系统 V1.0")
+print("1.增加一个新的名片")
+print("2.删除一个名片")
+print("3.修改一个名片")
+print("4.查询一个名片")
+print("5.列出所有名片名片")
+print("0.退出名片管理系统")
+print("="*50)
+
+#定义一个存放名片的列表
+cardInfos = [{"name":"小李子","phone":"1200000","email":"1200000@mail.com"}]
+while True:
+    #2.获取用户输入
+    num = int(input("请输入对应的功能："))
+
+    #3.根据用户输入相应功能的编号
+    if num in (1,2,3,4,5,0):
+        # 增加名片
+        if num == 1:
+            new_infos = {}
+            new_name  = input("输入姓名：")
+            new_phone = input("输入手机号码：")
+            new_email = input("输入电子邮件：")
+            new_infos["name"] = new_name
+            new_infos["phone"] = new_phone
+            new_infos["email"] = new_email
+            cardInfos.append( new_infos)
+
+        # 删除一个名片
+        elif num == 2:
+            pass
+
+        # 修改一个名片
+        elif num == 3:
+            pass
+
+        # 查询一个名片
+        elif num == 4:
+            find_name = input("输入要查询的姓名：")
+            for temp_find in cardInfos:
+                if find_name == temp_find["name"]:
+                    print("姓名\t\t电话\t\t电子邮件")
+                    for tempstr in temp_find:
+                        print("%s"%(tempstr),end="")
+
+                else:
+                    print("查无此人！")
+
+        # 列出所有名片
+        elif num == 5:
+            print("姓名\t\t电话号\t\t电子邮件")
+            for temp in cardInfos:
+                for temp_in in temp:
+                    print(temp_in)
+               # print("%s\t\t"% (cardInfos[temp]), end="")
+            print("\n","="*50)
+
+        # 退出名片
+        elif num == 0:
+            break
+    else:
+        print("输入有误请从新输入！")

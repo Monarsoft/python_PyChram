@@ -1,0 +1,422 @@
+MODULES_MANAGER_V2
+Image
+OpenGL
+_ast
+_bisect
+_blake2
+_bytesio
+_codecs
+_codecs_cn
+_codecs_hk
+_codecs_iso2022
+_codecs_jp
+_codecs_kr
+_codecs_tw
+_collections
+_csv
+_datetime
+_fileio
+_functools
+_heapq
+_hotshot
+_imp
+_io
+_json
+_locale
+_lsprof
+_md5
+_multibytecodec
+_opcode
+_operator
+_pickle
+_random
+_sha
+_sha1
+_sha256
+_sha3
+_sha512
+_signal
+_sre
+_stat
+_string
+_struct
+_subprocess
+_symtable
+_thread
+_tracemalloc
+_warnings
+_weakref
+_winapi
+_winreg
+array
+atexit
+audioop
+binascii
+builtins
+cPickle
+cStringIO
+certifi.__init__|D:\Program Files\lib\site-packages\certifi\__init__.py
+certifi.__main__|D:\Program Files\lib\site-packages\certifi\__main__.py
+certifi.core|D:\Program Files\lib\site-packages\certifi\core.py
+chardet.__init__|D:\Program Files\lib\site-packages\chardet\__init__.py
+chardet.big5freq|D:\Program Files\lib\site-packages\chardet\big5freq.py
+chardet.big5prober|D:\Program Files\lib\site-packages\chardet\big5prober.py
+chardet.chardistribution|D:\Program Files\lib\site-packages\chardet\chardistribution.py
+chardet.charsetgroupprober|D:\Program Files\lib\site-packages\chardet\charsetgroupprober.py
+chardet.charsetprober|D:\Program Files\lib\site-packages\chardet\charsetprober.py
+chardet.cli.__init__|D:\Program Files\lib\site-packages\chardet\cli\__init__.py
+chardet.cli.chardetect|D:\Program Files\lib\site-packages\chardet\cli\chardetect.py
+chardet.codingstatemachine|D:\Program Files\lib\site-packages\chardet\codingstatemachine.py
+chardet.compat|D:\Program Files\lib\site-packages\chardet\compat.py
+chardet.cp949prober|D:\Program Files\lib\site-packages\chardet\cp949prober.py
+chardet.enums|D:\Program Files\lib\site-packages\chardet\enums.py
+chardet.escprober|D:\Program Files\lib\site-packages\chardet\escprober.py
+chardet.escsm|D:\Program Files\lib\site-packages\chardet\escsm.py
+chardet.eucjpprober|D:\Program Files\lib\site-packages\chardet\eucjpprober.py
+chardet.euckrfreq|D:\Program Files\lib\site-packages\chardet\euckrfreq.py
+chardet.euckrprober|D:\Program Files\lib\site-packages\chardet\euckrprober.py
+chardet.euctwfreq|D:\Program Files\lib\site-packages\chardet\euctwfreq.py
+chardet.euctwprober|D:\Program Files\lib\site-packages\chardet\euctwprober.py
+chardet.gb2312freq|D:\Program Files\lib\site-packages\chardet\gb2312freq.py
+chardet.gb2312prober|D:\Program Files\lib\site-packages\chardet\gb2312prober.py
+chardet.hebrewprober|D:\Program Files\lib\site-packages\chardet\hebrewprober.py
+chardet.jisfreq|D:\Program Files\lib\site-packages\chardet\jisfreq.py
+chardet.jpcntx|D:\Program Files\lib\site-packages\chardet\jpcntx.py
+chardet.langbulgarianmodel|D:\Program Files\lib\site-packages\chardet\langbulgarianmodel.py
+chardet.langcyrillicmodel|D:\Program Files\lib\site-packages\chardet\langcyrillicmodel.py
+chardet.langgreekmodel|D:\Program Files\lib\site-packages\chardet\langgreekmodel.py
+chardet.langhebrewmodel|D:\Program Files\lib\site-packages\chardet\langhebrewmodel.py
+chardet.langhungarianmodel|D:\Program Files\lib\site-packages\chardet\langhungarianmodel.py
+chardet.langthaimodel|D:\Program Files\lib\site-packages\chardet\langthaimodel.py
+chardet.langturkishmodel|D:\Program Files\lib\site-packages\chardet\langturkishmodel.py
+chardet.latin1prober|D:\Program Files\lib\site-packages\chardet\latin1prober.py
+chardet.mbcharsetprober|D:\Program Files\lib\site-packages\chardet\mbcharsetprober.py
+chardet.mbcsgroupprober|D:\Program Files\lib\site-packages\chardet\mbcsgroupprober.py
+chardet.mbcssm|D:\Program Files\lib\site-packages\chardet\mbcssm.py
+chardet.sbcharsetprober|D:\Program Files\lib\site-packages\chardet\sbcharsetprober.py
+chardet.sbcsgroupprober|D:\Program Files\lib\site-packages\chardet\sbcsgroupprober.py
+chardet.sjisprober|D:\Program Files\lib\site-packages\chardet\sjisprober.py
+chardet.universaldetector|D:\Program Files\lib\site-packages\chardet\universaldetector.py
+chardet.utf8prober|D:\Program Files\lib\site-packages\chardet\utf8prober.py
+chardet.version|D:\Program Files\lib\site-packages\chardet\version.py
+cmath
+datetime
+email
+errno
+exceptions
+faulthandler
+future_builtins
+gc
+gi
+hashlib
+idna.__init__|D:\Program Files\lib\site-packages\idna\__init__.py
+idna.codec|D:\Program Files\lib\site-packages\idna\codec.py
+idna.compat|D:\Program Files\lib\site-packages\idna\compat.py
+idna.core|D:\Program Files\lib\site-packages\idna\core.py
+idna.idnadata|D:\Program Files\lib\site-packages\idna\idnadata.py
+idna.intranges|D:\Program Files\lib\site-packages\idna\intranges.py
+idna.package_data|D:\Program Files\lib\site-packages\idna\package_data.py
+idna.uts46data|D:\Program Files\lib\site-packages\idna\uts46data.py
+imageop
+imp
+itertools
+lxml.ElementInclude|D:\Program Files\lib\site-packages\lxml\ElementInclude.py
+lxml.__init__|D:\Program Files\lib\site-packages\lxml\__init__.py
+lxml._elementpath|D:\Program Files\lib\site-packages\lxml\_elementpath.py
+lxml.builder|D:\Program Files\lib\site-packages\lxml\builder.py
+lxml.cssselect|D:\Program Files\lib\site-packages\lxml\cssselect.py
+lxml.doctestcompare|D:\Program Files\lib\site-packages\lxml\doctestcompare.py
+lxml.html.ElementSoup|D:\Program Files\lib\site-packages\lxml\html\ElementSoup.py
+lxml.html.__init__|D:\Program Files\lib\site-packages\lxml\html\__init__.py
+lxml.html._diffcommand|D:\Program Files\lib\site-packages\lxml\html\_diffcommand.py
+lxml.html._html5builder|D:\Program Files\lib\site-packages\lxml\html\_html5builder.py
+lxml.html._setmixin|D:\Program Files\lib\site-packages\lxml\html\_setmixin.py
+lxml.html.builder|D:\Program Files\lib\site-packages\lxml\html\builder.py
+lxml.html.clean|D:\Program Files\lib\site-packages\lxml\html\clean.py
+lxml.html.defs|D:\Program Files\lib\site-packages\lxml\html\defs.py
+lxml.html.diff|D:\Program Files\lib\site-packages\lxml\html\diff.py
+lxml.html.formfill|D:\Program Files\lib\site-packages\lxml\html\formfill.py
+lxml.html.html5parser|D:\Program Files\lib\site-packages\lxml\html\html5parser.py
+lxml.html.soupparser|D:\Program Files\lib\site-packages\lxml\html\soupparser.py
+lxml.html.usedoctest|D:\Program Files\lib\site-packages\lxml\html\usedoctest.py
+lxml.includes.__init__|D:\Program Files\lib\site-packages\lxml\includes\__init__.py
+lxml.includes.c14n|D:\Program Files\lib\site-packages\lxml\includes\c14n.pxd
+lxml.includes.config|D:\Program Files\lib\site-packages\lxml\includes\config.pxd
+lxml.includes.dtdvalid|D:\Program Files\lib\site-packages\lxml\includes\dtdvalid.pxd
+lxml.includes.etreepublic|D:\Program Files\lib\site-packages\lxml\includes\etreepublic.pxd
+lxml.includes.htmlparser|D:\Program Files\lib\site-packages\lxml\includes\htmlparser.pxd
+lxml.includes.relaxng|D:\Program Files\lib\site-packages\lxml\includes\relaxng.pxd
+lxml.includes.schematron|D:\Program Files\lib\site-packages\lxml\includes\schematron.pxd
+lxml.includes.tree|D:\Program Files\lib\site-packages\lxml\includes\tree.pxd
+lxml.includes.uri|D:\Program Files\lib\site-packages\lxml\includes\uri.pxd
+lxml.includes.xinclude|D:\Program Files\lib\site-packages\lxml\includes\xinclude.pxd
+lxml.includes.xmlerror|D:\Program Files\lib\site-packages\lxml\includes\xmlerror.pxd
+lxml.includes.xmlparser|D:\Program Files\lib\site-packages\lxml\includes\xmlparser.pxd
+lxml.includes.xmlschema|D:\Program Files\lib\site-packages\lxml\includes\xmlschema.pxd
+lxml.includes.xpath|D:\Program Files\lib\site-packages\lxml\includes\xpath.pxd
+lxml.includes.xslt|D:\Program Files\lib\site-packages\lxml\includes\xslt.pxd
+lxml.isoschematron.__init__|D:\Program Files\lib\site-packages\lxml\isoschematron\__init__.py
+lxml.pyclasslookup|D:\Program Files\lib\site-packages\lxml\pyclasslookup.py
+lxml.sax|D:\Program Files\lib\site-packages\lxml\sax.py
+lxml.usedoctest|D:\Program Files\lib\site-packages\lxml\usedoctest.py
+macurl2path|D:\Program Files\lib\macurl2path.py
+marshal
+math
+mmap
+mock
+msvcrt
+multiprocessing
+nt
+numpy
+operator
+os
+os.path
+parser
+pygame.SDL|D:\Program Files\lib\site-packages\pygame\SDL.dll
+pygame.SDL_image|D:\Program Files\lib\site-packages\pygame\SDL_image.dll
+pygame.SDL_mixer|D:\Program Files\lib\site-packages\pygame\SDL_mixer.dll
+pygame.SDL_ttf|D:\Program Files\lib\site-packages\pygame\SDL_ttf.dll
+pygame.__init__|D:\Program Files\lib\site-packages\pygame\__init__.py
+pygame._camera_opencv_highgui|D:\Program Files\lib\site-packages\pygame\_camera_opencv_highgui.py
+pygame._camera_vidcapture|D:\Program Files\lib\site-packages\pygame\_camera_vidcapture.py
+pygame._dummybackend|D:\Program Files\lib\site-packages\pygame\_dummybackend.py
+pygame._numpysndarray|D:\Program Files\lib\site-packages\pygame\_numpysndarray.py
+pygame._numpysurfarray|D:\Program Files\lib\site-packages\pygame\_numpysurfarray.py
+pygame.camera|D:\Program Files\lib\site-packages\pygame\camera.py
+pygame.colordict|D:\Program Files\lib\site-packages\pygame\colordict.py
+pygame.compat|D:\Program Files\lib\site-packages\pygame\compat.py
+pygame.cursors|D:\Program Files\lib\site-packages\pygame\cursors.py
+pygame.docs.__init__|D:\Program Files\lib\site-packages\pygame\docs\__init__.py
+pygame.docs.__main__|D:\Program Files\lib\site-packages\pygame\docs\__main__.py
+pygame.examples.__init__|D:\Program Files\lib\site-packages\pygame\examples\__init__.py
+pygame.examples.aacircle|D:\Program Files\lib\site-packages\pygame\examples\aacircle.py
+pygame.examples.aliens|D:\Program Files\lib\site-packages\pygame\examples\aliens.py
+pygame.examples.arraydemo|D:\Program Files\lib\site-packages\pygame\examples\arraydemo.py
+pygame.examples.blend_fill|D:\Program Files\lib\site-packages\pygame\examples\blend_fill.py
+pygame.examples.blit_blends|D:\Program Files\lib\site-packages\pygame\examples\blit_blends.py
+pygame.examples.camera|D:\Program Files\lib\site-packages\pygame\examples\camera.py
+pygame.examples.chimp|D:\Program Files\lib\site-packages\pygame\examples\chimp.py
+pygame.examples.cursors|D:\Program Files\lib\site-packages\pygame\examples\cursors.py
+pygame.examples.eventlist|D:\Program Files\lib\site-packages\pygame\examples\eventlist.py
+pygame.examples.fastevents|D:\Program Files\lib\site-packages\pygame\examples\fastevents.py
+pygame.examples.fonty|D:\Program Files\lib\site-packages\pygame\examples\fonty.py
+pygame.examples.freetype_misc|D:\Program Files\lib\site-packages\pygame\examples\freetype_misc.py
+pygame.examples.glcube|D:\Program Files\lib\site-packages\pygame\examples\glcube.py
+pygame.examples.headless_no_windows_needed|D:\Program Files\lib\site-packages\pygame\examples\headless_no_windows_needed.py
+pygame.examples.liquid|D:\Program Files\lib\site-packages\pygame\examples\liquid.py
+pygame.examples.mask|D:\Program Files\lib\site-packages\pygame\examples\mask.py
+pygame.examples.midi|D:\Program Files\lib\site-packages\pygame\examples\midi.py
+pygame.examples.moveit|D:\Program Files\lib\site-packages\pygame\examples\moveit.py
+pygame.examples.oldalien|D:\Program Files\lib\site-packages\pygame\examples\oldalien.py
+pygame.examples.overlay|D:\Program Files\lib\site-packages\pygame\examples\overlay.py
+pygame.examples.pixelarray|D:\Program Files\lib\site-packages\pygame\examples\pixelarray.py
+pygame.examples.playmus|D:\Program Files\lib\site-packages\pygame\examples\playmus.py
+pygame.examples.prevent_display_stretching|D:\Program Files\lib\site-packages\pygame\examples\prevent_display_stretching.py
+pygame.examples.scaletest|D:\Program Files\lib\site-packages\pygame\examples\scaletest.py
+pygame.examples.scrap_clipboard|D:\Program Files\lib\site-packages\pygame\examples\scrap_clipboard.py
+pygame.examples.scroll|D:\Program Files\lib\site-packages\pygame\examples\scroll.py
+pygame.examples.sound|D:\Program Files\lib\site-packages\pygame\examples\sound.py
+pygame.examples.sound_array_demos|D:\Program Files\lib\site-packages\pygame\examples\sound_array_demos.py
+pygame.examples.stars|D:\Program Files\lib\site-packages\pygame\examples\stars.py
+pygame.examples.testsprite|D:\Program Files\lib\site-packages\pygame\examples\testsprite.py
+pygame.examples.vgrade|D:\Program Files\lib\site-packages\pygame\examples\vgrade.py
+pygame.freetype|D:\Program Files\lib\site-packages\pygame\freetype.py
+pygame.ftfont|D:\Program Files\lib\site-packages\pygame\ftfont.py
+pygame.gp2x.__init__|D:\Program Files\lib\site-packages\pygame\gp2x\__init__.py
+pygame.gp2x.constants|D:\Program Files\lib\site-packages\pygame\gp2x\constants.py
+pygame.gp2x.locals|D:\Program Files\lib\site-packages\pygame\gp2x\locals.py
+pygame.locals|D:\Program Files\lib\site-packages\pygame\locals.py
+pygame.macosx|D:\Program Files\lib\site-packages\pygame\macosx.py
+pygame.midi|D:\Program Files\lib\site-packages\pygame\midi.py
+pygame.pkgdata|D:\Program Files\lib\site-packages\pygame\pkgdata.py
+pygame.portmidi|D:\Program Files\lib\site-packages\pygame\portmidi.dll
+pygame.sndarray|D:\Program Files\lib\site-packages\pygame\sndarray.py
+pygame.sprite|D:\Program Files\lib\site-packages\pygame\sprite.py
+pygame.surfarray|D:\Program Files\lib\site-packages\pygame\surfarray.py
+pygame.sysfont|D:\Program Files\lib\site-packages\pygame\sysfont.py
+pygame.tests.__init__|D:\Program Files\lib\site-packages\pygame\tests\__init__.py
+pygame.tests.__main__|D:\Program Files\lib\site-packages\pygame\tests\__main__.py
+pygame.tests.base_test|D:\Program Files\lib\site-packages\pygame\tests\base_test.py
+pygame.tests.blit_test|D:\Program Files\lib\site-packages\pygame\tests\blit_test.py
+pygame.tests.bufferproxy_test|D:\Program Files\lib\site-packages\pygame\tests\bufferproxy_test.py
+pygame.tests.camera_test|D:\Program Files\lib\site-packages\pygame\tests\camera_test.py
+pygame.tests.cdrom_tags|D:\Program Files\lib\site-packages\pygame\tests\cdrom_tags.py
+pygame.tests.cdrom_test|D:\Program Files\lib\site-packages\pygame\tests\cdrom_test.py
+pygame.tests.color_test|D:\Program Files\lib\site-packages\pygame\tests\color_test.py
+pygame.tests.compat_test|D:\Program Files\lib\site-packages\pygame\tests\compat_test.py
+pygame.tests.cursors_test|D:\Program Files\lib\site-packages\pygame\tests\cursors_test.py
+pygame.tests.display_test|D:\Program Files\lib\site-packages\pygame\tests\display_test.py
+pygame.tests.draw_test|D:\Program Files\lib\site-packages\pygame\tests\draw_test.py
+pygame.tests.event_test|D:\Program Files\lib\site-packages\pygame\tests\event_test.py
+pygame.tests.fastevent_test|D:\Program Files\lib\site-packages\pygame\tests\fastevent_test.py
+pygame.tests.font_tags|D:\Program Files\lib\site-packages\pygame\tests\font_tags.py
+pygame.tests.font_test|D:\Program Files\lib\site-packages\pygame\tests\font_test.py
+pygame.tests.freetype_tags|D:\Program Files\lib\site-packages\pygame\tests\freetype_tags.py
+pygame.tests.freetype_test|D:\Program Files\lib\site-packages\pygame\tests\freetype_test.py
+pygame.tests.ftfont_tags|D:\Program Files\lib\site-packages\pygame\tests\ftfont_tags.py
+pygame.tests.ftfont_test|D:\Program Files\lib\site-packages\pygame\tests\ftfont_test.py
+pygame.tests.gfxdraw_test|D:\Program Files\lib\site-packages\pygame\tests\gfxdraw_test.py
+pygame.tests.image__save_gl_surface_test|D:\Program Files\lib\site-packages\pygame\tests\image__save_gl_surface_test.py
+pygame.tests.image_tags|D:\Program Files\lib\site-packages\pygame\tests\image_tags.py
+pygame.tests.image_test|D:\Program Files\lib\site-packages\pygame\tests\image_test.py
+pygame.tests.imageext_tags|D:\Program Files\lib\site-packages\pygame\tests\imageext_tags.py
+pygame.tests.imageext_test|D:\Program Files\lib\site-packages\pygame\tests\imageext_test.py
+pygame.tests.joystick_test|D:\Program Files\lib\site-packages\pygame\tests\joystick_test.py
+pygame.tests.key_test|D:\Program Files\lib\site-packages\pygame\tests\key_test.py
+pygame.tests.mask_test|D:\Program Files\lib\site-packages\pygame\tests\mask_test.py
+pygame.tests.math_test|D:\Program Files\lib\site-packages\pygame\tests\math_test.py
+pygame.tests.midi_tags|D:\Program Files\lib\site-packages\pygame\tests\midi_tags.py
+pygame.tests.midi_test|D:\Program Files\lib\site-packages\pygame\tests\midi_test.py
+pygame.tests.mixer_music_tags|D:\Program Files\lib\site-packages\pygame\tests\mixer_music_tags.py
+pygame.tests.mixer_music_test|D:\Program Files\lib\site-packages\pygame\tests\mixer_music_test.py
+pygame.tests.mixer_tags|D:\Program Files\lib\site-packages\pygame\tests\mixer_tags.py
+pygame.tests.mixer_test|D:\Program Files\lib\site-packages\pygame\tests\mixer_test.py
+pygame.tests.mouse_test|D:\Program Files\lib\site-packages\pygame\tests\mouse_test.py
+pygame.tests.overlay_test|D:\Program Files\lib\site-packages\pygame\tests\overlay_test.py
+pygame.tests.pixelarray_test|D:\Program Files\lib\site-packages\pygame\tests\pixelarray_test.py
+pygame.tests.pixelcopy_test|D:\Program Files\lib\site-packages\pygame\tests\pixelcopy_test.py
+pygame.tests.rect_test|D:\Program Files\lib\site-packages\pygame\tests\rect_test.py
+pygame.tests.run_tests__tests.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\__init__.py
+pygame.tests.run_tests__tests.all_ok.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\all_ok\__init__.py
+pygame.tests.run_tests__tests.all_ok.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\all_ok\fake_2_test.py
+pygame.tests.run_tests__tests.all_ok.fake_3_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\all_ok\fake_3_test.py
+pygame.tests.run_tests__tests.all_ok.fake_4_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\all_ok\fake_4_test.py
+pygame.tests.run_tests__tests.all_ok.fake_5_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\all_ok\fake_5_test.py
+pygame.tests.run_tests__tests.all_ok.fake_6_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\all_ok\fake_6_test.py
+pygame.tests.run_tests__tests.all_ok.no_assertions__ret_code_of_1__test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\all_ok\no_assertions__ret_code_of_1__test.py
+pygame.tests.run_tests__tests.all_ok.zero_tests_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\all_ok\zero_tests_test.py
+pygame.tests.run_tests__tests.everything.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\everything\__init__.py
+pygame.tests.run_tests__tests.everything.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\everything\fake_2_test.py
+pygame.tests.run_tests__tests.everything.incomplete_todo_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\everything\incomplete_todo_test.py
+pygame.tests.run_tests__tests.everything.magic_tag_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\everything\magic_tag_test.py
+pygame.tests.run_tests__tests.everything.sleep_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\everything\sleep_test.py
+pygame.tests.run_tests__tests.exclude.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\exclude\__init__.py
+pygame.tests.run_tests__tests.exclude.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\exclude\fake_2_test.py
+pygame.tests.run_tests__tests.exclude.invisible_tag_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\exclude\invisible_tag_test.py
+pygame.tests.run_tests__tests.exclude.magic_tag_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\exclude\magic_tag_test.py
+pygame.tests.run_tests__tests.failures1.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\failures1\__init__.py
+pygame.tests.run_tests__tests.failures1.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\failures1\fake_2_test.py
+pygame.tests.run_tests__tests.failures1.fake_3_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\failures1\fake_3_test.py
+pygame.tests.run_tests__tests.failures1.fake_4_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\failures1\fake_4_test.py
+pygame.tests.run_tests__tests.incomplete.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\incomplete\__init__.py
+pygame.tests.run_tests__tests.incomplete.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\incomplete\fake_2_test.py
+pygame.tests.run_tests__tests.incomplete.fake_3_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\incomplete\fake_3_test.py
+pygame.tests.run_tests__tests.incomplete_todo.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\incomplete_todo\__init__.py
+pygame.tests.run_tests__tests.incomplete_todo.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\incomplete_todo\fake_2_test.py
+pygame.tests.run_tests__tests.incomplete_todo.fake_3_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\incomplete_todo\fake_3_test.py
+pygame.tests.run_tests__tests.infinite_loop.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\infinite_loop\__init__.py
+pygame.tests.run_tests__tests.infinite_loop.fake_1_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\infinite_loop\fake_1_test.py
+pygame.tests.run_tests__tests.infinite_loop.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\infinite_loop\fake_2_test.py
+pygame.tests.run_tests__tests.print_stderr.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\print_stderr\__init__.py
+pygame.tests.run_tests__tests.print_stderr.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\print_stderr\fake_2_test.py
+pygame.tests.run_tests__tests.print_stderr.fake_3_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\print_stderr\fake_3_test.py
+pygame.tests.run_tests__tests.print_stderr.fake_4_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\print_stderr\fake_4_test.py
+pygame.tests.run_tests__tests.print_stdout.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\print_stdout\__init__.py
+pygame.tests.run_tests__tests.print_stdout.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\print_stdout\fake_2_test.py
+pygame.tests.run_tests__tests.print_stdout.fake_3_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\print_stdout\fake_3_test.py
+pygame.tests.run_tests__tests.print_stdout.fake_4_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\print_stdout\fake_4_test.py
+pygame.tests.run_tests__tests.run_tests__test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\run_tests__test.py
+pygame.tests.run_tests__tests.timeout.__init__|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\timeout\__init__.py
+pygame.tests.run_tests__tests.timeout.fake_2_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\timeout\fake_2_test.py
+pygame.tests.run_tests__tests.timeout.sleep_test|D:\Program Files\lib\site-packages\pygame\tests\run_tests__tests\timeout\sleep_test.py
+pygame.tests.rwobject_test|D:\Program Files\lib\site-packages\pygame\tests\rwobject_test.py
+pygame.tests.scrap_tags|D:\Program Files\lib\site-packages\pygame\tests\scrap_tags.py
+pygame.tests.scrap_test|D:\Program Files\lib\site-packages\pygame\tests\scrap_test.py
+pygame.tests.sndarray_tags|D:\Program Files\lib\site-packages\pygame\tests\sndarray_tags.py
+pygame.tests.sndarray_test|D:\Program Files\lib\site-packages\pygame\tests\sndarray_test.py
+pygame.tests.sprite_test|D:\Program Files\lib\site-packages\pygame\tests\sprite_test.py
+pygame.tests.surface_test|D:\Program Files\lib\site-packages\pygame\tests\surface_test.py
+pygame.tests.surfarray_tags|D:\Program Files\lib\site-packages\pygame\tests\surfarray_tags.py
+pygame.tests.surfarray_test|D:\Program Files\lib\site-packages\pygame\tests\surfarray_test.py
+pygame.tests.surflock_test|D:\Program Files\lib\site-packages\pygame\tests\surflock_test.py
+pygame.tests.sysfont_test|D:\Program Files\lib\site-packages\pygame\tests\sysfont_test.py
+pygame.tests.test_test_|D:\Program Files\lib\site-packages\pygame\tests\test_test_.py
+pygame.tests.test_utils.__init__|D:\Program Files\lib\site-packages\pygame\tests\test_utils\__init__.py
+pygame.tests.test_utils.arrinter|D:\Program Files\lib\site-packages\pygame\tests\test_utils\arrinter.py
+pygame.tests.test_utils.async_sub|D:\Program Files\lib\site-packages\pygame\tests\test_utils\async_sub.py
+pygame.tests.test_utils.buftools|D:\Program Files\lib\site-packages\pygame\tests\test_utils\buftools.py
+pygame.tests.test_utils.endian|D:\Program Files\lib\site-packages\pygame\tests\test_utils\endian.py
+pygame.tests.test_utils.png|D:\Program Files\lib\site-packages\pygame\tests\test_utils\png.py
+pygame.tests.test_utils.run_tests|D:\Program Files\lib\site-packages\pygame\tests\test_utils\run_tests.py
+pygame.tests.test_utils.test_machinery|D:\Program Files\lib\site-packages\pygame\tests\test_utils\test_machinery.py
+pygame.tests.test_utils.test_runner|D:\Program Files\lib\site-packages\pygame\tests\test_utils\test_runner.py
+pygame.tests.threads_test|D:\Program Files\lib\site-packages\pygame\tests\threads_test.py
+pygame.tests.time_test|D:\Program Files\lib\site-packages\pygame\tests\time_test.py
+pygame.tests.transform_test|D:\Program Files\lib\site-packages\pygame\tests\transform_test.py
+pygame.threads.Py25Queue|D:\Program Files\lib\site-packages\pygame\threads\Py25Queue.py
+pygame.threads.__init__|D:\Program Files\lib\site-packages\pygame\threads\__init__.py
+pygame.version|D:\Program Files\lib\site-packages\pygame\version.py
+pygame.zlib1|D:\Program Files\lib\site-packages\pygame\zlib1.dll
+pytest
+python36|D:\Program Files\python36.dll
+requests.__init__|D:\Program Files\lib\site-packages\requests\__init__.py
+requests.__version__|D:\Program Files\lib\site-packages\requests\__version__.py
+requests._internal_utils|D:\Program Files\lib\site-packages\requests\_internal_utils.py
+requests.adapters|D:\Program Files\lib\site-packages\requests\adapters.py
+requests.api|D:\Program Files\lib\site-packages\requests\api.py
+requests.auth|D:\Program Files\lib\site-packages\requests\auth.py
+requests.certs|D:\Program Files\lib\site-packages\requests\certs.py
+requests.compat|D:\Program Files\lib\site-packages\requests\compat.py
+requests.cookies|D:\Program Files\lib\site-packages\requests\cookies.py
+requests.exceptions|D:\Program Files\lib\site-packages\requests\exceptions.py
+requests.help|D:\Program Files\lib\site-packages\requests\help.py
+requests.hooks|D:\Program Files\lib\site-packages\requests\hooks.py
+requests.models|D:\Program Files\lib\site-packages\requests\models.py
+requests.packages|D:\Program Files\lib\site-packages\requests\packages.py
+requests.sessions|D:\Program Files\lib\site-packages\requests\sessions.py
+requests.status_codes|D:\Program Files\lib\site-packages\requests\status_codes.py
+requests.structures|D:\Program Files\lib\site-packages\requests\structures.py
+requests.utils|D:\Program Files\lib\site-packages\requests\utils.py
+retrying|D:\Program Files\lib\site-packages\retrying.py
+scipy
+signal
+six|D:\Program Files\lib\site-packages\six.py
+socket
+ssl
+str|D:\Program Files\lib\site-packages\str.py
+strop
+sys
+thread
+time
+urllib3.__init__|D:\Program Files\lib\site-packages\urllib3\__init__.py
+urllib3._collections|D:\Program Files\lib\site-packages\urllib3\_collections.py
+urllib3.connection|D:\Program Files\lib\site-packages\urllib3\connection.py
+urllib3.connectionpool|D:\Program Files\lib\site-packages\urllib3\connectionpool.py
+urllib3.contrib.__init__|D:\Program Files\lib\site-packages\urllib3\contrib\__init__.py
+urllib3.contrib._securetransport.__init__|D:\Program Files\lib\site-packages\urllib3\contrib\_securetransport\__init__.py
+urllib3.contrib._securetransport.bindings|D:\Program Files\lib\site-packages\urllib3\contrib\_securetransport\bindings.py
+urllib3.contrib._securetransport.low_level|D:\Program Files\lib\site-packages\urllib3\contrib\_securetransport\low_level.py
+urllib3.contrib.appengine|D:\Program Files\lib\site-packages\urllib3\contrib\appengine.py
+urllib3.contrib.ntlmpool|D:\Program Files\lib\site-packages\urllib3\contrib\ntlmpool.py
+urllib3.contrib.pyopenssl|D:\Program Files\lib\site-packages\urllib3\contrib\pyopenssl.py
+urllib3.contrib.securetransport|D:\Program Files\lib\site-packages\urllib3\contrib\securetransport.py
+urllib3.contrib.socks|D:\Program Files\lib\site-packages\urllib3\contrib\socks.py
+urllib3.exceptions|D:\Program Files\lib\site-packages\urllib3\exceptions.py
+urllib3.fields|D:\Program Files\lib\site-packages\urllib3\fields.py
+urllib3.filepost|D:\Program Files\lib\site-packages\urllib3\filepost.py
+urllib3.packages.__init__|D:\Program Files\lib\site-packages\urllib3\packages\__init__.py
+urllib3.packages.backports.__init__|D:\Program Files\lib\site-packages\urllib3\packages\backports\__init__.py
+urllib3.packages.backports.makefile|D:\Program Files\lib\site-packages\urllib3\packages\backports\makefile.py
+urllib3.packages.ordered_dict|D:\Program Files\lib\site-packages\urllib3\packages\ordered_dict.py
+urllib3.packages.six|D:\Program Files\lib\site-packages\urllib3\packages\six.py
+urllib3.packages.ssl_match_hostname.__init__|D:\Program Files\lib\site-packages\urllib3\packages\ssl_match_hostname\__init__.py
+urllib3.packages.ssl_match_hostname._implementation|D:\Program Files\lib\site-packages\urllib3\packages\ssl_match_hostname\_implementation.py
+urllib3.poolmanager|D:\Program Files\lib\site-packages\urllib3\poolmanager.py
+urllib3.request|D:\Program Files\lib\site-packages\urllib3\request.py
+urllib3.response|D:\Program Files\lib\site-packages\urllib3\response.py
+urllib3.util.__init__|D:\Program Files\lib\site-packages\urllib3\util\__init__.py
+urllib3.util.connection|D:\Program Files\lib\site-packages\urllib3\util\connection.py
+urllib3.util.queue|D:\Program Files\lib\site-packages\urllib3\util\queue.py
+urllib3.util.request|D:\Program Files\lib\site-packages\urllib3\util\request.py
+urllib3.util.response|D:\Program Files\lib\site-packages\urllib3\util\response.py
+urllib3.util.retry|D:\Program Files\lib\site-packages\urllib3\util\retry.py
+urllib3.util.ssl_|D:\Program Files\lib\site-packages\urllib3\util\ssl_.py
+urllib3.util.timeout|D:\Program Files\lib\site-packages\urllib3\util\timeout.py
+urllib3.util.url|D:\Program Files\lib\site-packages\urllib3\util\url.py
+urllib3.util.wait|D:\Program Files\lib\site-packages\urllib3\util\wait.py
+winreg
+wx
+wxPython
+xxsubtype
+zipimport
+zlib

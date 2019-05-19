@@ -1,0 +1,16 @@
+  set default to 地址							设置零时目录
+  
+  create table <xsqk> (学号 c(8),日期 d, 团圆否 L,入学成绩 n(5,1)  )	创建表结构
+
+  insert into <xsqk> (学号, 姓名) values ("140601", "王红梅")		末尾添加一条新纪录
+  delete from <表名> [where <条件>]					删除记录
+
+  update <xscj> set 总分=英语+数学+语文 where <条件>			满足条件的做计算
+
+
+  alter table <表名> add <字段名><类型>(宽度)				添加字段
+  alter table <表名> drop <字段名>					删除字段
+
+  alter table <表名> rename <字段名> to <新字段名>			修改字段名
+  alter table <表名> alter <字段名>[[字段类型](宽度[,小数位数])]	修改字段类型
+

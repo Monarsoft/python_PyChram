@@ -1,0 +1,74 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>90c4db91-d179-4d1d-abec-5a5c05cbfcb5</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>14_伪私有属性和方法.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>08.面向对象基础</Name>
+    <RootNamespace>08.面向对象基础</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="01.面向对象基础.py" />
+    <Compile Include="03.初始化方法.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="02.在外界设置属性的问题.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="04.利用参数设置属性初始化值.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="05.__del__方法.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="06.__str__方法.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="07.小明爱跑步.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="08_摆放家具_01家具类.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="09_摆放家具_02房子类.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10_士兵突击_01抢类.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11_士兵突击_02士兵.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="12_士兵突击_03士兵开火.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="13_私有属性和方法.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="14_伪私有属性和方法.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

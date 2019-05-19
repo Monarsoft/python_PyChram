@@ -1,0 +1,23 @@
+   select 语句   select 跟什么字段就显示什么内容
+
+  select       英语, 语文, 数学 from xscj order by 总分 descending		以总分排序(order by ...指定内容升序排)
+  
+查询的内容 以指定范围 内容排序
+--------------------------------------------------------------------------------------------------------------------------
+    Top 字句是选择一定数量的记录查询, Top n : n 的取值是1-32767；Top m 取值是 1-99  。 （具体可参考教材 Visual FoxPr, P/127）
+
+  select top 3 学号, 姓名, 总分 from xsqk order by 总分 Descending 
+  select top n .................from xsqk order by 总分 Ascending
+  select top m .................from xsqk order by 总分 Descending
+
+指定排序的内容排序 选择一定的数量排序
+----------------------------------------------------------------------------------------------------------------------------
+ select * from <表名> where <条件表达式> group by <分组列名>
+ select * from <表名> where <条件表达式> group by <分组列名> into table <新表名> 	把查询的内容保存到新的表中
+ select * from <表名> where <条件表达式> group by <分组列名> into cursor <零时表名>
+
+按指定字段分组(P/128)
+----------------------------------------------------------------------------------------------------------------------------
+
+
+	select max() |all |distinct from <表名> | order by <字段名> | group by <字段名>

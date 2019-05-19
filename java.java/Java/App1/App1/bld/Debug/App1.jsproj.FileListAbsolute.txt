@@ -1,0 +1,17 @@
+D:\Java for developers\java.java\Java\App1\App1\bin\Debug\ReverseMap\resources.pri
+D:\Java for developers\java.java\Java\App1\App1\bin\Debug\AppxManifest.xml
+D:\Java for developers\java.java\Java\App1\App1\bin\Debug\App1.build.appxrecipe
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\App1.jsproj.CoreCompileInputs.cache
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\ResourceHandlingTask.state
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\priconfig.xml
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\priconfig.xml.intermediate
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\layout.resfiles
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\layout.resfiles.intermediate
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\resources.resfiles
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\resources.resfiles.intermediate
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\pri.resfiles
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\pri.resfiles.intermediate
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\qualifiers.txt
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\qualifiers.txt.intermediate
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Java for developers\java.java\Java\App1\App1\bld\Debug\ProjectArchitectures.txt
