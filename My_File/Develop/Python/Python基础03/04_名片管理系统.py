@@ -1,4 +1,4 @@
-#coding=utf8
+# _*_ coding: utf-8 _*_
 '''名片管理系统
 '''
 #1.打印提示信息
@@ -9,6 +9,7 @@ print("2.删除一个名片")
 print("3.修改一个名片")
 print("4.查询一个名片")
 print("5.列出所有名片名片")
+print("6.保存到库中")
 print("0.退出名片管理系统")
 print("="*50)
 
@@ -16,10 +17,11 @@ print("="*50)
 cardInfos = [{"name":"小李子","phone":"1200000","email":"1200000@mail.com"},{"name":"小宝","phone":"1111111","email":"1111111@mail.com"},{"name":"小桃子","phone":"100001","email":"100001@inf.com"}]
 while True:
     #2.获取用户输入
+    num = 6
     num = int(input("请输入对应的功能："))
 
     #3.根据用户输入相应功能的编号
-    if num in (1,2,3,4,5,0):
+    if num in (1,2,3,4,5,6,0):
         # 增加名片
         if num == 1:
             new_infos = {}
@@ -117,6 +119,14 @@ while True:
                 print("%s\t\t%s\t\t%s"% (temp["name"],temp["phone"],temp["email"]))
                 #print(temp) # for test
             print("="*50)
+            print(str(cardInfos))
+        elif num == 6:
+            print("OK")
+            ''' 保存已有的信息到文件中'''
+            f = open('名片管理系统数据.data','a',encoding='utf-8')
+            f.write(str(cardInfos))
+            print("File go to OK!")
+            f.close()
 
         # 退出名片
         elif num == 0:
