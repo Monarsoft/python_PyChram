@@ -1,6 +1,9 @@
 pipeline{
   agent any
   stages{
-    
+    stage("python_PyCharm"){
+    steps{
+      bat "python test_jenkins.py"
+      }
   }
 }
