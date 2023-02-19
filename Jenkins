@@ -1,7 +1,7 @@
 pipeline{
   agent any
   stages{
-    stage("Jinkins"){
+    stage("Pipeline pipeline"){
     steps{
       bat "python test_jenkins.py"
       }
